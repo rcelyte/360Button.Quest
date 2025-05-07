@@ -4,24 +4,26 @@
 	"info": {
 		"name": "FunnySpinnyButtonEnabler",
 		"id": "FunnySpinnyButtonEnabler",
-		"version": "1.1.0",
+		"version": "1.2.0",
 		"url": null,
 		"additionalData": {}
 	},
 	"dependencies": [
 		{
 			"id": "beatsaber-hook",
-			"versionRange": "^3.14.0",
-			"additionalData": {
-				"extraFiles": [
-					"src/inline-hook"
-				]
-			}
-		},
-		{
-			"id": "codegen",
-			"versionRange": "^0.28.0",
+			"versionRange": "^6.4.0",
 			"additionalData": {}
+		}, {
+			"id": "paper2_scotland2",
+			"versionRange": "^4.6.2",
+			"additionalData": {}
+		}, {
+			"id": "scotland2",
+			"versionRange": "^0.1.4",
+			"additionalData": {
+				"includeQmod": false,
+				"private": true
+			}
 		}
 	],
 	"additionalData": {}
