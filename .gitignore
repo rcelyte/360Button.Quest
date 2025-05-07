@@ -1,0 +1,8 @@
+/*.qmod
+/*.so
+/.obj/
+/extern.cmake
+/extern/
+/makefile.user
+/qpm.shared.json
+/qpm_defines.cmake
